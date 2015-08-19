@@ -1,0 +1,366 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tog",
+				"toggleClass"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"list-sty",
+				"list-style-position"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"list-s",
+				"list-style-position"
+			],
+			[
+				"border-lef",
+				"border-left-width"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"tex",
+				"text-shadow"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"he",
+				"header	<header>"
+			],
+			[
+				"class",
+				"class	Attr"
+			],
+			[
+				"id",
+				"id	Attr"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "recipe.html",
+			"settings":
+			{
+				"buffer_size": 7840,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/stylesheet.css",
+			"settings":
+			{
+				"buffer_size": 2303,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "script.js",
+			"settings":
+			{
+				"buffer_size": 837,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 138.0,
+		"last_filter": "Snippet: comment",
+		"selected_items":
+		[
+			[
+				"Snippet: comment",
+				"Snippet: IE Conditional Comment: HTML5 Shim"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/media/ruxica/winterfell/_Docs/Lighthouse Labs/Prep course/proj1.sublime-workspace",
+		"/media/ruxica/winterfell/_Docs/Lighthouse Labs/Prep course/recipe.html",
+		"/media/ruxica/winterfell/_Docs/Lighthouse Labs/Prep course/css/stylesheet.css",
+		"/media/ruxica/winterfell/_Docs/Lighthouse Labs/Prep course/stylesheet.css"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"directions",
+			"rotate(7deg)",
+			"li class=\"instruction\"",
+			" itemprop=\"recipeInstructions\"",
+			"20px",
+			"radius"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"scale(2,2)",
+			"li class=\"directions\"",
+			"",
+			"2px",
+			"width"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "recipe.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7840,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1756,
+								1756
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 412.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "css/stylesheet.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2303,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2301,
+								2301
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1664.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "script.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 837,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								837,
+								837
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 51.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "proj1.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

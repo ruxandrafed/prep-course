@@ -1,0 +1,144 @@
+* {
+	font-family: 'Sanchez', serif;
+}
+
+section {
+	margin: 20px 0px 20px 0px;
+}
+
+#header {
+	background-image: url("../images/soup1.jpg");
+	background-position: left center;
+	opacity: 0.8;
+	width: 100%;
+	height: 300px;
+	-webkit-filter: blur(6px);
+  	-moz-filter: blur(6px);
+  	-o-filter: blur(6px);
+  	-ms-filter: blur(6px);
+  	filter: blur(6px);
+}
+
+#title {
+	margin: -160px 0px 0px 20px;
+	display: block;
+	position: relative;
+}
+
+#links {
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+#show-images {
+	display: none;
+}
+
+h1 {
+	color: white;
+	font-size: 3.2em;
+	text-shadow: 1px 1px #707070;
+}
+
+h2 {
+	color: white;
+	font-size: 2em;
+	margin-top: -20px;
+}
+
+a {
+	text-decoration: none;
+	color: #99ff99;
+
+}
+
+h3 {
+	color: red;
+	font-size: 1.5em;
+	margin: 20px 0px 0px 20px;
+}
+
+ul#ingredients_list {
+    list-style-image: url("http://www.thehotscot.com/favicon.ico");
+    list-style-position: outside;
+}
+
+ul#ingredients_list li {
+    margin-top: 10px;
+}
+
+ol li {
+	margin-top: 10px;
+	position: relative;
+	margin-left: 10px;
+}
+
+p {
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+img.intro {
+	width: 500px;
+	float: right;
+	margin: 0px 20px 0px 20px;
+	display: inline-block;	
+  	box-shadow: 3px 3px red;
+  	border-radius: 20px;
+	-webkit-border-radius: 20px;
+  	-moz-border-radius: 20px;
+  	-o-border-radius: 20px;
+  	-ms-border-radius: 20px;
+}
+
+img.ingredients {
+	border-radius: 20px;
+	-webkit-border-radius: 20px;
+  	-moz-border-radius: 20px;
+  	-o-border-radius: 20px;
+  	-ms-border-radius: 20px;
+	margin: 0px 20px 0px 20px;
+	display: inline-block;
+	width: 348px;
+}
+
+img.ingredients:hover {
+	opacity: 0.5;
+}
+
+.recipe_image {
+	margin: 0 auto;
+	display: block;
+	width: 700px;
+	border-radius: 20px;
+	-webkit-border-radius: 20px;
+  	-moz-border-radius: 20px;
+  	-o-border-radius: 20px;
+  	-ms-border-radius: 20px;
+}
+
+.recipe_image:hover {
+	transform: scale(2,2);
+    -webkit-transform: scale(2,2);
+    -moz-transform: scale(2,2);
+    -o-transform: scale(2,2);
+    -ms-transform: scale(2,2);
+    transition-duration: 5s;
+    -webkit-transition-duration: 5s;
+    -moz-transition-duration: 5s;
+    -o-transition-duration: 5s;
+    -ms-transition-duration: 5s;
+}
+
+#footer a {
+	color: black;
+	text-decoration: underline;
+}
+
+.directions-selected {
+	background-color: yellow;
+}
+
+.ingredient-bought {
+	text-decoration: line-through;
+}
