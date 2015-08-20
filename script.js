@@ -1,13 +1,13 @@
 $(document).ready(function() {
-	
+
 	console.log("Script included!");
-	
+
 	$('#hide-images').click(function() {
 		$('img').hide('slow');
 		$('#hide-images').toggle();
 		$('#show-images').toggle();
 	})
-	
+
 	$('#show-images').click(function() {
 		$('img').show('slow');
 		$('#hide-images').toggle();
