@@ -1,4 +1,4 @@
-puts "Ruby - Assignment 1: FizzBuzz"
+# "Ruby - Assignment 1: FizzBuzz"
 
 (1..100).each do |x|
   puts "FizzBuzz" if (x % 3 == 0) && (x % 5 == 0)
